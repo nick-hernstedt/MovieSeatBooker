@@ -8,9 +8,10 @@ This was built to help practice javascript. It does the following:
 - saves the information in the browser so that the seats are still reserved if we exit and return to page
 
 ## Technologies
-HTML
-CSS 
-JavaScript
+- Responsive Design
+- HTML
+- CSS 
+- JavaScript
 
 ## User story
 AS A person who wants to reserve movie seats,
